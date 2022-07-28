@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "90s Rewind",
-        "image": "https://github.com/lnbredemeyer/lnb-portfolio-2/blob/main/assets/images/nineties-rewind.jpg",
+        "image": "../../assets/projects/nineties-rewind.jpg",
         "github": "https://github.com/shanehancock64/GroupProject2",
         "deploy": "https://group-project-90s-rewind.herokuapp.com",
         "topics": "RESTful API Bootcamp second project. Working with Cole, Matt & Shane, we created a website using an application and creates a marketplace for buyers, sellers, and fans of 90s footwear."

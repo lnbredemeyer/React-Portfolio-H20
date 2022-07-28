@@ -1,30 +1,29 @@
-import React, { Component } from "react";
-import { Route, Navigate } from "react-router-dom";
-import Navigation from "../../components/Navigation";
-import About from "../../components/About";
-import Portfolio from "../../components/Portfolio";
-import Contact from '../../components/Contact';
-import Resume from '../../components/Resume';
+import React from 'react';
 
+function Header(props) {
+    const { currentPage, handlePageChange } = props;
 
-class Header extends Component {
-  render() {
     return (
-      <div>
-        <header>
-          <Navigation />
+        <header className="flex-row">
+            <h1 className="mx-2">Leah Bredemeyer</h1>
+            <nav>
+                <ul className="flex-row">
+                    <li className={currentPage === "About" ? "nav-link navActive" : "nav-link mx-2"}>
+                        <span onClick={() => handlePageChange("About")}>About Me</span>
+                    </li>
+                    <li className={currentPage === "Portfolio" ? "nav-link navActive" : "nav-link mx-2"}>
+                        <span onClick={() => handlePageChange("Portfolio")}>Portfolio</span>
+                    </li>
+                    <li className={currentPage === "Contact" ? "nav-link navActive" : "nav-link mx-2"}>
+                        <span onClick={() => handlePageChange("Contact")}>Contact Me</span>
+                    </li>
+                    <li className={currentPage === "Resume" ? "nav-link navActive" : "nav-link mx-2"}>
+                        <span onClick={() => handlePageChange("Resume")}>Resume</span>
+                    </li>
+                </ul>
+            </nav>
         </header>
-
-        <div className="content">
-          <Route exact path="/" render={() => <Navigate to="/about" />} />
-          <Route path="/about" component={About} />
-          <Route path="/portfolio" component={Portfolio} />
-          <Route path="/contact" component={Contact}/>
-          <Route path="/resume" component={Resume}/>
-        </div>
-      </div>
-    );
-  }
+    )
 }
 
 export default Header;
