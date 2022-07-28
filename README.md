@@ -36,9 +36,10 @@ As an employer looking for candidates with experience building single-page appli
 * THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter)
 
 ## Screenshots
-![alt tag]( "screenshot")
+![alt tag](https://user-images.githubusercontent.com/99215212/181641220-53545a4d-5ecd-4275-946e-c7dbd6067af9.png "screenshot")
 
 ## Links
+* https://lnbredemeyer.github.io/React-Portfolio-H20/
 * https://github.com/lnbredemeyer/React-Portfolio-H20
 
 ## Author
