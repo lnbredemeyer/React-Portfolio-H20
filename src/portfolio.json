@@ -17,8 +17,8 @@
     },
     {
         "id": 3,
-        "name": "Day Planner",
-        "image": "https://github.com/lnbredemeyer/lnb-portfolio-2/blob/main/assets/images/DayPlanner.png",
+        "name": "Employee Tracker",
+        "image": "https://github.com/lnbredemeyer/lnb-portfolio-2/blob/main/assets/images/EmploymentManagementSystem.png",
         "github": "https://github.com/lnbredemeyer/Employee-Tracker-H12",
         "deploy": "https://youtu.be/lYlIFH6_cbw",
         "topics": "To be able to view and manage the departments, roles, and employees in my company so that I can organize and plan my business."
