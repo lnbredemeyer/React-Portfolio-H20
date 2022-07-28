@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "90s Rewind",
-        "image": "../../assets/projects/nineties-rewind.jpg",
+        "image": "../assets/projects/nineties-rewind.jpg",
         "github": "https://github.com/shanehancock64/GroupProject2",
         "deploy": "https://group-project-90s-rewind.herokuapp.com",
         "topics": "RESTful API Bootcamp second project. Working with Cole, Matt & Shane, we created a website using an application and creates a marketplace for buyers, sellers, and fans of 90s footwear."
@@ -10,7 +10,7 @@
     {
         "id": 2,
         "name": "E-Commerce Backend",
-        "image": "https://github.com/lnbredemeyer/lnb-portfolio-2/blob/main/assets/images/E-CommerceBackEnd.png",
+        "image": "",
         "github": "https://github.com/lnbredemeyer/Object-Relational-Mapping-H13",
         "deploy": "https://youtu.be/W_-CxzDOOrA",
         "topics": "To build the back end for an e-commerce site by modifying starter code by configuring a working Express.js API to use Sequelize to interact with a MySQL database."
