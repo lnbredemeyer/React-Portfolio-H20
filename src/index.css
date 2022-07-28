@@ -5,7 +5,7 @@ main {
   padding: 50px 30px;
 }
 :root {
-  --primary: #8c54ff;
+  --primary: #061292;
   --secondary: #000000;
   --tertiary: #61bbfb;
   --light: #fafafa;
@@ -138,12 +138,13 @@ button {
 }
 
 .works-grid-item a {
-  color: var(--tertiary);
+  color: var(--primary);
+  align-items: baseline;
   padding: 10px;
-  font-size: 10px;
+  font-size: 20px;
   text-decoration: none;
   font-weight: bold;
-  text-shadow: var(--secondary) 0px 0px 5px;
+  text-shadow: var(--light) 0px 0px 5px;
 }
 
 .card {
