@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "90s Rewind",
+        "image": "https://github.com/lnbredemeyer/lnb-portfolio-2/blob/main/assets/images/nineties-rewind.jpg",
+        "github": "https://github.com/shanehancock64/GroupProject2",
+        "deploy": "https://group-project-90s-rewind.herokuapp.com",
+        "topics": "RESTful API Bootcamp second project. Working with Cole, Matt & Shane, we created a website using an application and creates a marketplace for buyers, sellers, and fans of 90s footwear."
+    },
+    {
+        "id": 2,
+        "name": "E-Commerce Backend",
+        "image": "https://github.com/lnbredemeyer/lnb-portfolio-2/blob/main/assets/images/E-CommerceBackEnd.png",
+        "github": "https://github.com/lnbredemeyer/Object-Relational-Mapping-H13",
+        "deploy": "https://youtu.be/W_-CxzDOOrA",
+        "topics": "To build the back end for an e-commerce site by modifying starter code by configuring a working Express.js API to use Sequelize to interact with a MySQL database."
+    },
+    {
+        "id": 3,
+        "name": "Day Planner",
+        "image": "https://github.com/lnbredemeyer/lnb-portfolio-2/blob/main/assets/images/DayPlanner.png",
+        "github": "https://github.com/lnbredemeyer/Employee-Tracker-H12",
+        "deploy": "https://youtu.be/lYlIFH6_cbw",
+        "topics": "To be able to view and manage the departments, roles, and employees in my company so that I can organize and plan my business."
+    },
+    {
+        "id": 4,
+        "name": "Sound Scouter",
+        "image": "https://github.com/lnbredemeyer/lnb-portfolio-2/blob/main/assets/images/SoundScouter1.png",
+        "github": "https://github.com/lnbredemeyer/sound-scouter-p1",
+        "deploy": "https://lnbredemeyer.github.io/sound-scouter-p1/",
+        "topics": "moment.js, javascript, jQuery, localStorage, API"
+    },
+    {
+        "id": 5,
+        "name": "Weather Dashboard",
+        "image": "https://github.com/lnbredemeyer/lnb-portfolio-2/blob/main/assets/images/WeatherDashboard.png",
+        "github": "https://github.com/lnbredemeyer/weather-dashboard-H6",
+        "deploy": "https://lnbredemeyer.github.io/weather-dashboard-H6/",
+        "topics": "We were tasked to create a weather dashboard to allow people to search a city, or choose one of the previously searched, and that day's weather, humidity, wind, uv index and a 5 day forcast."
+    },
+    {
+        "id": 6,
+        "name": "Work Day Scheduler",
+        "image": "https://github.com/lnbredemeyer/lnb-portfolio-2/blob/main/assets/images/DayPlanner.png",
+        "github": "https://github.com/lnbredemeyer/Work-Day-Scheduler-H5",
+        "deploy": "https://lnbredemeyer.github.io/Work-Day-Scheduler-H5/",
+        "topics": "We were tasked to create a day planner that is color coded with future, current and overdue items, and also allows you to type in by the hour items to do it and saves it in the local storage."
+    }
+]
