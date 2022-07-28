@@ -139,12 +139,11 @@ button {
 
 .works-grid-item a {
   color: var(--primary);
-  align-items: baseline;
   padding: 10px;
   font-size: 20px;
   text-decoration: none;
   font-weight: bold;
-  text-shadow: var(--light) 5px 0px 5px;
+  text-shadow: var(--light) 0px 0px 8px;
 }
 
 .card {
