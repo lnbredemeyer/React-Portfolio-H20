@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/React-Portfolio-H20/static/css/main.b1e5ff32.chunk.css",
+    "main.css": "/React-Portfolio-H20/static/css/main.96ee0c9f.chunk.css",
     "main.js": "/React-Portfolio-H20/static/js/main.bee4e945.chunk.js",
     "main.js.map": "/React-Portfolio-H20/static/js/main.bee4e945.chunk.js.map",
     "runtime-main.js": "/React-Portfolio-H20/static/js/runtime-main.a8625f06.js",
@@ -12,7 +12,7 @@
     "static/js/3.b853c9c3.chunk.js.map": "/React-Portfolio-H20/static/js/3.b853c9c3.chunk.js.map",
     "index.html": "/React-Portfolio-H20/index.html",
     "static/css/2.e437d120.chunk.css.map": "/React-Portfolio-H20/static/css/2.e437d120.chunk.css.map",
-    "static/css/main.b1e5ff32.chunk.css.map": "/React-Portfolio-H20/static/css/main.b1e5ff32.chunk.css.map",
+    "static/css/main.96ee0c9f.chunk.css.map": "/React-Portfolio-H20/static/css/main.96ee0c9f.chunk.css.map",
     "static/js/2.85c8ccdd.chunk.js.LICENSE.txt": "/React-Portfolio-H20/static/js/2.85c8ccdd.chunk.js.LICENSE.txt",
     "static/media/LeahPortrait.245ee8a0.jpg": "/React-Portfolio-H20/static/media/LeahPortrait.245ee8a0.jpg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.a8625f06.js",
     "static/css/2.e437d120.chunk.css",
     "static/js/2.85c8ccdd.chunk.js",
-    "static/css/main.b1e5ff32.chunk.css",
+    "static/css/main.96ee0c9f.chunk.css",
     "static/js/main.bee4e945.chunk.js"
   ]
 }
